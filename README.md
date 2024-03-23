@@ -20,4 +20,4 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCpR7z-UCul0q2fuamzV-g2A)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipe-frança-a53196279/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olvrlucvs&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeninoFranca&layout=compact)
